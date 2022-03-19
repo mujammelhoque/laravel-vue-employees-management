@@ -8,6 +8,7 @@
     </div>
     <div class="container">
         <div class="row justify-content-center">
+            <h1>user information create</h1>
             <div class="col-md-8">
                 <div class="card">
                     <div class="card-header">
